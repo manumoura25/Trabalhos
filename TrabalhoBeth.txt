@@ -1,0 +1,61 @@
+## 30-04-2026
+   **- [Emanuelle]**  Implementei as funções lerUsuarios()  e exibirUsuario e testei com 2 usuarios
+  **- [Emanuelle]** Implementei a função buscarUsuarioPorId(), testei a função com 3 usuários. 
+  **- [Emanuelle]** Implementei as funções suspenderUsuario() e reativarUsuario(), ambas testadas com 3 usuários, todas as funçãos foram testadas utilizando um main improvisado .
+
+**- [Livia]** Implementei as funções lerPosts() e exibirPosts() no código e testei seu funcionamento com 2 posts.
+**- [Livia]** Implementei a função buscarPostPorId e testei com os posts criados anteriormente.
+**- [Livia]** Implementei a função contarPostDeUsuario e testei com um ID de usuário não existente e com 2 existentes .
+**- [Livia]** Implementei as funções ocultarPost() e publicarPost() e testei tanto em posts ocultos quanto em públicos.
+
+**- [Samantha]** Implementei  as funções criarMatriz(), exibirMatriz() e liberarMatriz().
+**- [Samantha]** Fiz um main provisório testei a função exibirMatriz().
+**- [Samantha]** Fiz o menu da rede social.
+
+## 01-05-2026
+**- [Emanuelle]** Corrigi as minhas funções e testei elas novamente.
+**- [Emanuelle]** Alterei a formatação das minhas funções.
+
+**- [Livia]** Implementei a função filtrarPostsPublicos() e testei com 3 usuarios e 4 posts.
+**- [Livia]** Revisei todas as funções e corrigi elas.
+**- [Livia]** Comentei as funções.
+
+**- [Samantha]** Implementei a função  registrarCurtida().
+ **- [Samantha]**  Implementei os 4 primeiros cases do Menu.
+
+##  02-05-2026
+**- [Emanuelle]** Fiz o diagrama de memoria.
+
+**- [Samantha]** Desenvolvi o main.
+
+## 04-05-2026 
+**- [Emanuelle]**  Comecei o arquivo TXT.
+**- [Emanuelle]**  Corrigi problemas no código, nas partes que estavam as funções que eu implementei.
+**- [Emanuelle]**  E ajudei a juntar todo o código e a solucionar os problemas tanto de redundância quanto de erro de programação 
+
+ **- [Livia]**  Fiz toda a formatação do arquivo do relátorio.
+**- [Livia]**  Verifiquei todas as inconsistências e redundâncias.
+**- [Livia]** Juntei todo o codigo, corrigi diversos erros, tanto no main quanto nas funções.
+
+**- [Samantha]** Corrigi varios erros do main.
+**- [Samantha]**  Corrigi a função registrarCurtida.
+
+## 06-05-2026
+**- [Emanuelle]** Finalizei o arquivo TXT e fiz a minha parte do relatório.
+**- [Emanuelle]**  Concertei e passei a limpo o diagrama de memória.
+**- [Emanuelle]**  Terminei o código.
+
+**- [Livia]**  Fiz ajustes finais em todas funções.
+**- [Livia]** Fomatei e ajustei o codigo, corrigi ele completamente para a versão final.
+**- [Livia]**  fFiz a minha parte do relatório e finalizei ele.
+**- [Livia]** Terminei o código.
+
+**- [Samantha]**  Mudei a função registrarCurtida que estava dando erro.
+**- [Samantha]**  Melhorei os comentários.
+**- [Samantha]**  Fiz a validação caso não houvesse nenhum usuário e/ou post.
+**- [Samantha]** Fiz minha parte do relátorio.
+**- [Samantha]** Terminei o código.
+
+**Full Changelog**: https://github.com/manumoura25/Trabalhos/commits/v1.2.3
+
+**Full Changelog**: https://github.com/manumoura25/Trabalhos/commits/v1.2.3
