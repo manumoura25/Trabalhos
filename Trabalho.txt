@@ -47,7 +47,7 @@
 
 **- [Livia]**  Fiz ajustes finais em todas funções.
 **- [Livia]** Fomatei e ajustei o codigo, corrigi ele completamente para a versão final.
-**- [Livia]**  fFiz a minha parte do relatório e finalizei ele.
+**- [Livia]**  Fiz a minha parte do relatório e finalizei ele.
 **- [Livia]** Terminei o código.
 
 **- [Samantha]**  Mudei a função registrarCurtida que estava dando erro.
